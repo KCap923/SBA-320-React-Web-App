@@ -1,6 +1,6 @@
 👋 Hi I’m Krystle, 
 
-💻 Technology used ... VSC
+💻 Technology used ... VSC, API from NASA https://api.nasa.gov/, 
 
 👀 I’m interested in ... Growing my knowledge in web development, and helping others along the way.
 
@@ -14,8 +14,13 @@
 
 
 
-Explanations of the approach taken.
+<!-- Explanations of the approach taken.
 A link to your live site.
 Usage instructions, if relevant.
+***Features
+Add and remove products from the floating cart using Context Api
+Filter products by available sizes using Context Api
+Responsive design
 Unsolved problems.
-etc.
+etc. -->
+
