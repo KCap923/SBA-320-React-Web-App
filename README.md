@@ -1,6 +1,6 @@
 👋 Hi I’m Krystle, 
 
-💻 Technology used ... VSC, API from NASA https://api.nasa.gov/, 
+💻 Technology used ... VSC, API used http://makeup-api.herokuapp.com/, 
 
 👀 I’m interested in ... Growing my knowledge in web development, and helping others along the way.
 
@@ -24,4 +24,3 @@ Responsive design
 Unsolved problems.
 etc. -->
 
-http://makeup-api.herokuapp.com/
