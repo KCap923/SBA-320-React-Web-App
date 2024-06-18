@@ -1,5 +1,5 @@
-import Nasa from "../components/Nasa"
-import Space from "../components/Space"
+import Products from "../components/Products"
+import Makeup from "../components/Makeup"
 
 
 
@@ -8,9 +8,9 @@ import React from 'react'
 function Home() {
   return (
     <div>
-      
-<Nasa/>
-<Space/>
+
+<Products/>
+<Makeup/>
 
     </div>
   )
