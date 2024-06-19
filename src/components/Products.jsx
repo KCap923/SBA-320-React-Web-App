@@ -23,9 +23,9 @@ function Products() {
   };
 
   return (
+          //*Displaying items by product type ******************************************************** */ 
     <div>
       {products.map((product) => (
-// Displaying items by product type ********************************************************
         <div key={product.id}>
           <p>Brand: {product.brand}</p>
           <p>Name: {product.name}</p>
