@@ -24,7 +24,6 @@ function Products() {
 
   return (
     <div>
-   
       {products.map((product) => (
 // Displaying items by product type ********************************************************
         <div key={product.id}>
