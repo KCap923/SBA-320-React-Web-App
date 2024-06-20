@@ -12,6 +12,8 @@
 
 ⚡ Fun fact: ... The term “Wi-Fi” doesn’t stand for anything. It is a marketing term coined by a branding company.
 
+Netlify link: https://jolly-conkies-8c5f5e.netlify.app/
 
+Github Link: https://github.com/KCap923/SBA-320-React-Web-App
 
 
