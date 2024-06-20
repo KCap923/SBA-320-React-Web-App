@@ -2,6 +2,7 @@ import {useEffect} from 'react'
 import { useState } from 'react'
 import Products from './Products';
 
+
 const Beauty = () => {
 
 const[sparkles, setSparkles] = useState([]);
@@ -15,6 +16,7 @@ fetch(url)
 }, []);
 
   return (
+    
 <div>
 
 {sparkles.map((products, index) => {

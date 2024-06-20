@@ -4,12 +4,11 @@ import './App.css'
 import Navbar from './components/Navbar'
 import Beauty from './components/Beauty'
 
+
 function App() {
 
-
   return (
-    <>
-
+  <>
   <Navbar/>
   <Beauty/>
   <Home/>

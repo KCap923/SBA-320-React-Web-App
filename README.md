@@ -1,6 +1,6 @@
-👋 Hi I’m Krystle, 
+👋 Hi I’m Krystle, I created a makeup website showcasing NYX makeup products. 
 
-💻 Technology used ... VSC, API used http://makeup-api.herokuapp.com/, 
+💻 Technology used ... VSC, API used http://makeup-api.herokuapp.com/, Bootstrap
 
 👀 I’m interested in ... Growing my knowledge in web development, and helping others along the way.
 
@@ -10,17 +10,8 @@
 
 😄 Pronouns: ... She/Her
 
-⚡ Fun fact: ... 
+⚡ Fun fact: ... The term “Wi-Fi” doesn’t stand for anything. It is a marketing term coined by a branding company.
 
 
 
-<!-- Explanations of the approach taken.
-A link to your live site.
-Usage instructions, if relevant.
-***Features
-Add and remove products from the floating cart using Context Api
-Filter products by available sizes using Context Api
-Responsive design
-Unsolved problems.
-etc. -->
 
