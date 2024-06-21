@@ -8,7 +8,7 @@ const Beauty = () => {
 const[sparkles, setSparkles] = useState([]);
 
 useEffect(() => {
-let url = `http://makeup-api.herokuapp.com/api/v1/products.json?brand=nyx`;
+let url = `https://makeup-api.herokuapp.com/api/v1/products.json?brand=nyx`;
 fetch(url)
 .then((response)=> response.json())
 .then((data)=> setSparkles(data));
